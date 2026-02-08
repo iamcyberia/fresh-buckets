@@ -1,0 +1,12 @@
+{
+    condition: "!freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/pufferfish_bucket/pufferfish_bucket1.json",
+        "assets/minecraft/items/alt/pufferfish_bucket/pufferfish_bucket2.json",
+        "assets/minecraft/items/alt/pufferfish_bucket/pufferfish_bucket3.json",
+        "assets/minecraft/items/alt/pufferfish_bucket/pufferfish_bucket4.json",
+        "assets/minecraft/items/alt/pufferfish_bucket/pufferfish_bucket5.json",
+        "assets/minecraft/items/alt/pufferfish_bucket/pufferfish_bucket6.json",
+        "assets/minecraft/items/alt/pufferfish_bucket/pufferfish_bucket7.json"
+    ]
+}

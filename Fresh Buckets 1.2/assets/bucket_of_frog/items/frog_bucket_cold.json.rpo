@@ -1,0 +1,12 @@
+{
+    condition: "!freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui",
+    fallbacks: [
+        "assets/bucket_of_frog/items/2d_sprites/frog_bucket_cold/frog_bucket_cold1.json",
+        "assets/bucket_of_frog/items/2d_sprites/frog_bucket_cold/frog_bucket_cold2.json",
+        "assets/bucket_of_frog/items/2d_sprites/frog_bucket_cold/frog_bucket_cold3.json",
+        "assets/bucket_of_frog/items/2d_sprites/frog_bucket_cold/frog_bucket_cold4.json",
+        "assets/bucket_of_frog/items/2d_sprites/frog_bucket_cold/frog_bucket_cold5.json",
+        "assets/bucket_of_frog/items/2d_sprites/frog_bucket_cold/frog_bucket_cold6.json",
+        "assets/bucket_of_frog/items/2d_sprites/frog_bucket_cold/frog_bucket_cold7.json"
+    ]
+}

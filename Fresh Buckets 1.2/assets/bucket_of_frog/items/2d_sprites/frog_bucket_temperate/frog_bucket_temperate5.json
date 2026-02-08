@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "ground"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "bucket_of_frog:item/frog_bucket_temperate"
+        }
+      },
+      {
+        "when": [
+          "firstperson_righthand",
+          "firstperson_lefthand",
+          "thirdperson_righthand",
+          "thirdperson_lefthand",
+          "head",
+          "gui",
+          "fixed"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "bucket_of_frog:item/frog_bucket_temperate_3d"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "bucket_of_frog:item/frog_bucket_temperate"
+    }
+  }
+}

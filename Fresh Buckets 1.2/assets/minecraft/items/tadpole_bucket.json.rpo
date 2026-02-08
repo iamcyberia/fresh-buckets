@@ -1,0 +1,12 @@
+{
+    condition: "!freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/tadpole_bucket/tadpole_bucket1.json",
+        "assets/minecraft/items/alt/tadpole_bucket/tadpole_bucket2.json",
+        "assets/minecraft/items/alt/tadpole_bucket/tadpole_bucket3.json",
+        "assets/minecraft/items/alt/tadpole_bucket/tadpole_bucket4.json",
+        "assets/minecraft/items/alt/tadpole_bucket/tadpole_bucket5.json",
+        "assets/minecraft/items/alt/tadpole_bucket/tadpole_bucket6.json",
+        "assets/minecraft/items/alt/tadpole_bucket/tadpole_bucket7.json"
+    ]
+}

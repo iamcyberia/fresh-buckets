@@ -1,0 +1,12 @@
+{
+    condition: "!freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/water_bucket/water_bucket1.json",
+        "assets/minecraft/items/alt/water_bucket/water_bucket2.json",
+        "assets/minecraft/items/alt/water_bucket/water_bucket3.json",
+        "assets/minecraft/items/alt/water_bucket/water_bucket4.json",
+        "assets/minecraft/items/alt/water_bucket/water_bucket5.json",
+        "assets/minecraft/items/alt/water_bucket/water_bucket6.json",
+        "assets/minecraft/items/alt/water_bucket/water_bucket7.json"
+    ]
+}

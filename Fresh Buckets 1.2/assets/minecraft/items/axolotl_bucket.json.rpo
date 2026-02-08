@@ -1,0 +1,12 @@
+{
+    condition: "!freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/axolotl_bucket/axolotl_bucket1.json",
+        "assets/minecraft/items/alt/axolotl_bucket/axolotl_bucket2.json",
+        "assets/minecraft/items/alt/axolotl_bucket/axolotl_bucket3.json",
+        "assets/minecraft/items/alt/axolotl_bucket/axolotl_bucket4.json",
+        "assets/minecraft/items/alt/axolotl_bucket/axolotl_bucket5.json",
+        "assets/minecraft/items/alt/axolotl_bucket/axolotl_bucket6.json",
+        "assets/minecraft/items/alt/axolotl_bucket/axolotl_bucket7.json"
+    ]
+}

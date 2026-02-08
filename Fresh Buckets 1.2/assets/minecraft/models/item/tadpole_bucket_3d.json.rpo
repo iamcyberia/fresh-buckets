@@ -1,0 +1,4 @@
+{
+  "condition": "extraOptions.AnimatedBuckets",
+  "fallback": "assets/minecraft/models/item/not_animated/tadpole_bucket_3d.json"
+}

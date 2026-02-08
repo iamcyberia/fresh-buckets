@@ -1,0 +1,12 @@
+{
+    condition: "!freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/bucket/bucket1.json",
+        "assets/minecraft/items/alt/bucket/bucket2.json",
+        "assets/minecraft/items/alt/bucket/bucket3.json",
+        "assets/minecraft/items/alt/bucket/bucket4.json",
+        "assets/minecraft/items/alt/bucket/bucket5.json",
+        "assets/minecraft/items/alt/bucket/bucket6.json",
+        "assets/minecraft/items/alt/bucket/bucket7.json"
+    ]
+}

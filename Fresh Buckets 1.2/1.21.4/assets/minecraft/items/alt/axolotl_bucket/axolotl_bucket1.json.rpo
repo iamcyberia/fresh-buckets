@@ -1,0 +1,3 @@
+{
+    condition: "freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui"
+}

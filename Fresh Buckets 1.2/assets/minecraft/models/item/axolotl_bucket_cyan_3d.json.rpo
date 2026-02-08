@@ -1,0 +1,4 @@
+{
+  "condition": "extraOptions.AnimatedBuckets",
+  "fallback": "assets/minecraft/models/item/not_animated/axolotl_bucket_cyan_3d.json"
+}

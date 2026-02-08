@@ -1,0 +1,12 @@
+{
+    condition: "!freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/tropical_fish_bucket/tropical_fish_bucket1.json",
+        "assets/minecraft/items/alt/tropical_fish_bucket/tropical_fish_bucket2.json",
+        "assets/minecraft/items/alt/tropical_fish_bucket/tropical_fish_bucket3.json",
+        "assets/minecraft/items/alt/tropical_fish_bucket/tropical_fish_bucket4.json",
+        "assets/minecraft/items/alt/tropical_fish_bucket/tropical_fish_bucket5.json",
+        "assets/minecraft/items/alt/tropical_fish_bucket/tropical_fish_bucket6.json",
+        "assets/minecraft/items/alt/tropical_fish_bucket/tropical_fish_bucket7.json"
+    ]
+}

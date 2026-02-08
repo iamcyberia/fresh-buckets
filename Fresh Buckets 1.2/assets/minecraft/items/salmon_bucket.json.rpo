@@ -1,0 +1,12 @@
+{
+    condition: "!freshBuckets.useModelsWhen.ground & !freshBuckets.useModelsWhen.itemFrames & !freshBuckets.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/salmon_bucket/salmon_bucket1.json",
+        "assets/minecraft/items/alt/salmon_bucket/salmon_bucket2.json",
+        "assets/minecraft/items/alt/salmon_bucket/salmon_bucket3.json",
+        "assets/minecraft/items/alt/salmon_bucket/salmon_bucket4.json",
+        "assets/minecraft/items/alt/salmon_bucket/salmon_bucket5.json",
+        "assets/minecraft/items/alt/salmon_bucket/salmon_bucket6.json",
+        "assets/minecraft/items/alt/salmon_bucket/salmon_bucket7.json"
+    ]
+}

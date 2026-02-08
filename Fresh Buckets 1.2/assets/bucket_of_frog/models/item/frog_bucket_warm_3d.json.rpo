@@ -1,0 +1,4 @@
+{
+  "condition": "extraOptions.AnimatedBuckets",
+  "fallback": "assets/bucket_of_frog/models/item/not_animated/frog_bucket_warm_3d.json"
+}
